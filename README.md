@@ -3,10 +3,8 @@
 </div>
 
 
-
 <div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qrhyun.visitor-badge&left_color=green&right_color=red)
-  <img src="https://profile-counter.glitch.me/Qrhyun/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Qrhyun/count.svg?" alt="Profile Counter" />
 </div>
 
 ###
@@ -19,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Qrhyun from China<br><br>- 🔭 I’m working as a student<br>- 📚 I'm currently learning LLM<br>- ⚡ In my free time I like to do something meaningful.</p>
+<p align="left"> I'm Qrhyun, a student from China, passionate about technology and always eager to explore new things.<br><br> - 🔭 I'm currently working as a student, focusing on learning and practicing to enhance my skills.<br> - 📚 I'm currently diving into Large Language Models (LLM). I'm particularly interested in the fields of artificial intelligence and machine learning, and I hope to use these technologies to make a positive impact on society.<br> - ⚡ In my free time, I enjoy doing meaningful things. I like reading, writing, coding, and participating in open-source projects to help others solve problems. I also enjoy traveling, broadening my horizons, and learning about different cultures and lifestyles. </p>
 
 ###
 
@@ -40,10 +38,10 @@
 </div>
 
 ###
+
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-###
 
 ###
 
