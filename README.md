@@ -3,7 +3,7 @@
 </div>
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <div align="center">
   <img src="https://profile-counter.glitch.me/Qrhyun/count.svg?"  />
 </div>
@@ -37,6 +37,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+###
 
 ###
 
