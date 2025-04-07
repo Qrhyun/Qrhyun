@@ -3,8 +3,9 @@
 </div>
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{Qrhyun}/count.svg)
+
 <div align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qrhyun.visitor-badge&left_color=green&right_color=red)
   <img src="https://profile-counter.glitch.me/Qrhyun/count.svg?"  />
 </div>
 
