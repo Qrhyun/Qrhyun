@@ -29,7 +29,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -49,9 +49,12 @@
 
 ###
 
-<!-- Markdown -->
+<h3 align="left">📫 have a joke:</h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+###
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%2381c784&aColor=%232196f3" alt="Jokes Card" />
 
 ###
 
