@@ -8,8 +8,11 @@
 </div>
 
 ###
-
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4CEAF7&width=435&lines=Hello%2C+I+am+Qrhyun%2C+I+love+to+sleep" alt="Typing SVG" />
+  </a>
+</div>
 
 ###
 
