@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
+  <img height="" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
 </div>
 
 
@@ -63,10 +63,18 @@
 ###
 
 <br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qrhyun&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qrhyun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Qrhyun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qrhyun/Qrhyun/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qrhyun/Qrhyun/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qrhyun/Qrhyun/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
