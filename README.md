@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left"> I'm Qrhyun, a student from China, passionate about technology and always eager to explore new things.<br><br> - 🔭 I'm currently working as a student, focusing on learning and practicing to enhance my skills.<br> - 📚 I'm currently diving into Large Language Models (LLM). I'm particularly interested in the fields of artificial intelligence and machine learning, and I hope to use these technologies to make a positive impact on society.<br> - ⚡ In my free time, I enjoy doing meaningful things. I like reading, writing, coding, and participating in open-source projects to help others solve problems. I also enjoy traveling, broadening my horizons, and learning about different cultures and lifestyles. </p>
+<p align="left"> I'm Lumhil, a student from China, passionate about technology and always eager to explore new things.<br><br> - 🔭 I'm currently working as a student, focusing on learning and practicing to enhance my skills.<br> - 📚 I'm currently diving into Large Language Models (LLM). I'm particularly interested in the fields of artificial intelligence and machine learning, and I hope to use these technologies to make a positive impact on society.<br> - ⚡ In my free time, I enjoy doing meaningful things. I like reading, writing, coding, and participating in open-source projects to help others solve problems. I also enjoy traveling, broadening my horizons, and learning about different cultures and lifestyles. </p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<a href="https://github.com/Qrhyun" target="_blank">
+<a href="https://github.com/Lumhil" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
@@ -65,15 +65,15 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Qrhyun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lumhil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qrhyun/Qrhyun/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qrhyun/Qrhyun/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qrhyun/Qrhyun/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumhil/Lumhil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lumhil/Lumhil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LumhilLumhil/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
